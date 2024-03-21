@@ -29,9 +29,9 @@ I kept the code as original as possible with prober Commented Guides for anyone 
 # Demo the Apps
 
 <p float="left">
-  <img src="https://github.com/afifurrozaq/pc_app/blob/afff2fb66a331a2d3e57506a03b47646c5a17037/images/android_1.jpg"  />
-  <img src="https://github.com/afifurrozaq/pc_app/blob/afff2fb66a331a2d3e57506a03b47646c5a17037/images/android_2.jpg"  />
-  <img src="https://github.com/afifurrozaq/pc_app/blob/afff2fb66a331a2d3e57506a03b47646c5a17037/images/ios.png" />
+  <img width="33%" src="https://github.com/afifurrozaq/pc_app/blob/afff2fb66a331a2d3e57506a03b47646c5a17037/images/android_1.jpg"  />
+  <img width="33%" src="https://github.com/afifurrozaq/pc_app/blob/afff2fb66a331a2d3e57506a03b47646c5a17037/images/android_2.jpg"  />
+  <img width="33%" src="https://github.com/afifurrozaq/pc_app/blob/afff2fb66a331a2d3e57506a03b47646c5a17037/images/ios.png" />
 </p>
 
 
